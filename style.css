@@ -1,0 +1,28 @@
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+  overflow-y: scroll;
+}
+
+.heading-1 {
+  font-size: 2rem;
+}
+
+.heading-2 {
+  font-size: 1.5rem;
+}
+
+.keys-pressed {
+  width: 100%;
+  max-width: 100%;
+  line-break: anywhere;
+  padding: 0.625rem;
+}
+
+.key-code {
+  font-size: 3rem;
+}
