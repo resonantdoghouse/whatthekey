@@ -4,6 +4,9 @@ import "./style.css";
 const keysPressed = [];
 let keyCode = "";
 
+/**
+ * render
+ */
 function render() {
   document.querySelector("#app").innerHTML = `
     <h1 class="heading-1">Whats The Key Code</h1>
