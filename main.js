@@ -1,3 +1,4 @@
+// whats the key code
 import "./style.css";
 
 const keysPressed = [];
